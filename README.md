@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @meowiem
 - 👀 I’m interested in Anime, Music and Learning Coding!
 - 🌱 I’m currently learning HTML 5, CSS, JavaScript!
-- 📫 You can reach me on BlueSky @meowiebb.bsky.social
+- 📫 You can reach me nowhere
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a total newbie with ambitions to get better in few years so I can open new paths for myself in future!
+- ⚡ Fun fact: I'm a dummy
 
 <!---      
 meowiem/meowiem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
