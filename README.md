@@ -2,7 +2,6 @@
 - 👀 I’m interested in Anime, Music and Learning Coding!
 - 🌱 I’m currently learning HTML 5, CSS, JavaScript!
 - 📫 You can reach me nowhere
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a dummy
 
 <!---      
